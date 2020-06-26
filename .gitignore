@@ -1,3 +1,4 @@
-.env.development,
+node_modules/
+public/dist/
 .env.test
-node_modules
+.env.development
